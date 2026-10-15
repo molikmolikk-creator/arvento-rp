@@ -1,0 +1,11 @@
+{
+  "name": "Arvento RP",
+  "version": "18",
+  "build": 146,
+  "updated": "2026-10-15",
+  "apk": "ArventoRP.apk",
+  "size_bytes": 42208394,
+  "sha256": "09e5602e33a471d4272114bd1b638221368e33e93f36084e698c9f3382bd3246",
+  "min_android": "5.0",
+  "abi": "armeabi-v7a"
+}
